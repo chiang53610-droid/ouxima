@@ -1,0 +1,203 @@
+{
+  "source": {
+    "name": "英文目錄",
+    "driveFolderId": "1Y61eDLV7TiKN-mhyArNbDiO45WRSIlQO",
+    "driveUrl": "https://drive.google.com/drive/folders/1Y61eDLV7TiKN-mhyArNbDiO45WRSIlQO",
+    "owner": "AD@oshima.co",
+    "createdTime": "2021-08-30T02:30:46.753Z",
+    "modifiedTime": "2022-06-09T01:24:14.519Z"
+  },
+  "snapshotDate": "2026-09-12",
+  "note": "PDF 原始檔未鏡像至 repo（執行環境的網路政策封鎖 drive.google.com）。每個項目的 driveUrl 可直接開啟原始 PDF；markdown 檔案為 PDF 的文字擷取結果。",
+  "totals": { "categories": 8, "subCategories": 3, "documents": 11, "emptyFolders": 4 },
+  "categories": [
+    {
+      "driveTitle": "1. Inspection",
+      "path": "catalog/01-inspection",
+      "driveFolderId": "17LuGiVCLixAp2nLOtAK0lTzAlnj-UOpB",
+      "driveUrl": "https://drive.google.com/drive/folders/17LuGiVCLixAp2nLOtAK0lTzAlnj-UOpB",
+      "documents": [
+        {
+          "title": "OSHIMA Eagle Ai.pdf",
+          "models": ["EagleAi", "EagleAi Plus"],
+          "file": "catalog/01-inspection/OSHIMA-Eagle-Ai.md",
+          "driveFileId": "1yRW6_9zlV3oxdRyUkL3ElNH_1Xqs70S9",
+          "driveUrl": "https://drive.google.com/file/d/1yRW6_9zlV3oxdRyUkL3ElNH_1Xqs70S9/view",
+          "bytes": 21281372,
+          "modifiedTime": "2026-08-10T01:26:05.982Z"
+        }
+      ]
+    },
+    {
+      "driveTitle": "3. Spreading",
+      "path": "catalog/03-spreading",
+      "driveFolderId": "1e05TTD3TdxErc2zKYz-c9ETRAubPiNJh",
+      "driveUrl": "https://drive.google.com/drive/folders/1e05TTD3TdxErc2zKYz-c9ETRAubPiNJh",
+      "documents": [
+        {
+          "title": "M190G.pdf",
+          "models": ["M190G"],
+          "file": "catalog/03-spreading/M190G.md",
+          "driveFileId": "1qavrz-0tRoSbOOAAWp6Egh5jjvPq7N8i",
+          "driveUrl": "https://drive.google.com/file/d/1qavrz-0tRoSbOOAAWp6Egh5jjvPq7N8i/view",
+          "bytes": 760145,
+          "modifiedTime": "2023-03-24T07:54:42Z"
+        }
+      ]
+    },
+    {
+      "driveTitle": "5. Ironing & Shaping",
+      "path": "catalog/05-ironing-and-shaping",
+      "driveFolderId": "1Rg05OmxlhBiE_dIgrXXKFrbGYY-anlQe",
+      "driveUrl": "https://drive.google.com/drive/folders/1Rg05OmxlhBiE_dIgrXXKFrbGYY-anlQe",
+      "documents": [
+        {
+          "title": "OP-565III.pdf",
+          "models": ["OP-565III"],
+          "file": "catalog/05-ironing-and-shaping/OP-565III.md",
+          "driveFileId": "15Fo40cX5YUSGHeIas3PIrFK7xEskyf4M",
+          "driveUrl": "https://drive.google.com/file/d/15Fo40cX5YUSGHeIas3PIrFK7xEskyf4M/view",
+          "bytes": 686136,
+          "modifiedTime": "2024-04-30T06:11:08.986Z"
+        }
+      ]
+    },
+    {
+      "driveTitle": "6. Heat Transfer",
+      "path": "catalog/06-heat-transfer",
+      "driveFolderId": "1Lp0RuwAyjLcDmh2VB6jlRVRm2gxvwfZY",
+      "driveUrl": "https://drive.google.com/drive/folders/1Lp0RuwAyjLcDmh2VB6jlRVRm2gxvwfZY",
+      "documents": [],
+      "empty": true
+    },
+    {
+      "driveTitle": "7. Fusing Press",
+      "path": "catalog/07-fusing-press",
+      "driveFolderId": "1HMtRRJJa4mp9RPo2eeKcTsgwfKNFm7d1",
+      "driveUrl": "https://drive.google.com/drive/folders/1HMtRRJJa4mp9RPo2eeKcTsgwfKNFm7d1",
+      "documents": [],
+      "empty": true
+    },
+    {
+      "driveTitle": "11. Needle, Weighing Detection",
+      "path": "catalog/11-needle-weighing-detection",
+      "driveFolderId": "1jjf_fao-QjI7K88CHch4-pYsJfMuspf1",
+      "driveUrl": "https://drive.google.com/drive/folders/1jjf_fao-QjI7K88CHch4-pYsJfMuspf1",
+      "documents": [],
+      "subCategories": [
+        {
+          "driveTitle": "1. Garment",
+          "path": "catalog/11-needle-weighing-detection/1-garment",
+          "driveFolderId": "1ReOhXCovi7sjgzln2B27aFPsbiNNFie2",
+          "driveUrl": "https://drive.google.com/drive/folders/1ReOhXCovi7sjgzln2B27aFPsbiNNFie2",
+          "documents": [
+            {
+              "title": "ON-RFID.pdf",
+              "models": ["ON-RFID"],
+              "file": "catalog/11-needle-weighing-detection/1-garment/ON-RFID.md",
+              "driveFileId": "1mew9qIUUDT9X-GIZI8hsx8ZFItVC7bE8",
+              "driveUrl": "https://drive.google.com/file/d/1mew9qIUUDT9X-GIZI8hsx8ZFItVC7bE8/view",
+              "bytes": 395188,
+              "modifiedTime": "2026-05-22T03:55:16.136Z"
+            },
+            {
+              "title": "ON-688CD6S多高度規格.pdf",
+              "models": ["ON-688CD6S", "ON-688CDD6S"],
+              "file": "catalog/11-needle-weighing-detection/1-garment/ON-688CD6S.md",
+              "driveFileId": "1dRlkwRhTbLPG2OeuRhs3frWBG7M-kfEF",
+              "driveUrl": "https://drive.google.com/file/d/1dRlkwRhTbLPG2OeuRhs3frWBG7M-kfEF/view",
+              "bytes": 461904,
+              "modifiedTime": "2026-03-19T05:59:34.174Z"
+            },
+            {
+              "title": "ON-CM.pdf",
+              "models": ["ON-CM"],
+              "file": "catalog/11-needle-weighing-detection/1-garment/ON-CM.md",
+              "driveFileId": "13m1Qdq-pcKBUBd2Rapxf3oKK7sIocUQA",
+              "driveUrl": "https://drive.google.com/file/d/13m1Qdq-pcKBUBd2Rapxf3oKK7sIocUQA/view",
+              "bytes": 728140,
+              "modifiedTime": "2025-07-11T05:38:14.728Z"
+            },
+            {
+              "title": "OMW-600.pdf",
+              "models": ["OMW-600", "OMW-800", "OMW-1000"],
+              "file": "catalog/11-needle-weighing-detection/1-garment/OMW-600.md",
+              "driveFileId": "1MiOYuuUu-a3RA5PMm92mCK4cRYzDxQkp",
+              "driveUrl": "https://drive.google.com/file/d/1MiOYuuUu-a3RA5PMm92mCK4cRYzDxQkp/view",
+              "bytes": 1433867,
+              "modifiedTime": "2025-07-08T01:41:29.420Z"
+            }
+          ]
+        },
+        {
+          "driveTitle": "2. Food & Beverage",
+          "path": "catalog/11-needle-weighing-detection/2-food-and-beverage",
+          "driveFolderId": "1EHqZH4uZ3NatoK3d1sRJ6hGITcSdyRN8",
+          "driveUrl": "https://drive.google.com/drive/folders/1EHqZH4uZ3NatoK3d1sRJ6hGITcSdyRN8",
+          "documents": [
+            {
+              "title": "CWL-300.pdf",
+              "models": ["CWL-300"],
+              "file": "catalog/11-needle-weighing-detection/2-food-and-beverage/CWL-300.md",
+              "driveFileId": "1lSdTpIc1YvvlJ4ZSnkh3RjW74NpXCOij",
+              "driveUrl": "https://drive.google.com/file/d/1lSdTpIc1YvvlJ4ZSnkh3RjW74NpXCOij/view",
+              "bytes": 783531,
+              "modifiedTime": "2025-11-06T05:43:53.784Z"
+            },
+            {
+              "title": "CW-150.pdf",
+              "models": ["CW-150", "CW-220", "CW-300"],
+              "file": "catalog/11-needle-weighing-detection/2-food-and-beverage/CW-150.md",
+              "driveFileId": "1YmOsc-UUPifGXZYlK59cwJHuN5W6U0YC",
+              "driveUrl": "https://drive.google.com/file/d/1YmOsc-UUPifGXZYlK59cwJHuN5W6U0YC/view",
+              "bytes": 439761,
+              "modifiedTime": "2025-11-06T05:43:53.874Z"
+            }
+          ]
+        },
+        {
+          "driveTitle": "3. General",
+          "path": "catalog/11-needle-weighing-detection/3-general",
+          "driveFolderId": "14ukt0Snmk_9gRjTJVrqmCLmVJ-TGybV-",
+          "driveUrl": "https://drive.google.com/drive/folders/14ukt0Snmk_9gRjTJVrqmCLmVJ-TGybV-",
+          "documents": [],
+          "empty": true
+        }
+      ]
+    },
+    {
+      "driveTitle": "12. Boiler",
+      "path": "catalog/12-boiler",
+      "driveFolderId": "1RJJUEUkV9Hw0tu9Fp2NlmZDKthEzDiZJ",
+      "driveUrl": "https://drive.google.com/drive/folders/1RJJUEUkV9Hw0tu9Fp2NlmZDKthEzDiZJ",
+      "documents": [],
+      "empty": true
+    },
+    {
+      "driveTitle": "13. Others",
+      "path": "catalog/13-others",
+      "driveFolderId": "16y1q_0-UagVOIhpct9iJHFTVaf3yUkaf",
+      "driveUrl": "https://drive.google.com/drive/folders/16y1q_0-UagVOIhpct9iJHFTVaf3yUkaf",
+      "documents": [
+        {
+          "title": "PDP-2000.pdf",
+          "models": ["PDP-2000"],
+          "file": "catalog/13-others/PDP-2000.md",
+          "driveFileId": "1kgOJ2ttuM72Q8bCAIXLhlrlJERZ-mNZk",
+          "driveUrl": "https://drive.google.com/file/d/1kgOJ2ttuM72Q8bCAIXLhlrlJERZ-mNZk/view",
+          "bytes": 465926,
+          "modifiedTime": "2026-06-23T08:00:36.172Z"
+        },
+        {
+          "title": "SLS-190.pdf",
+          "models": ["SLS-190"],
+          "file": "catalog/13-others/SLS-190.md",
+          "driveFileId": "1__nHEB38ypcqbGcK7XCvTuQ9vn0HQaGa",
+          "driveUrl": "https://drive.google.com/file/d/1__nHEB38ypcqbGcK7XCvTuQ9vn0HQaGa/view",
+          "bytes": 332158,
+          "modifiedTime": "2024-11-14T07:07:12.980Z"
+        }
+      ]
+    }
+  ]
+}
