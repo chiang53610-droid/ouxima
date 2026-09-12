@@ -4,6 +4,7 @@ Google Drive 來源資料夾：**英文目錄**
 <https://drive.google.com/drive/folders/1Y61eDLV7TiKN-mhyArNbDiO45WRSIlQO>
 
 快照日期：**2026-09-12** ｜ 共 **8** 個分類、**3** 個子分類、**11** 份型錄（另有 4 個空資料夾）
+另收錄 **1 份使用者上傳的型錄舊版**（EagleAi v9，含 6 頁算圖）
 
 ---
 
@@ -13,7 +14,7 @@ Google Drive 來源資料夾：**英文目錄**
 | --- | --- | --- | --- |
 | CW-150 / CW-220 / CW-300 | Advanced Checkweigher System | 11.2 Food & Beverage | [開啟](11-needle-weighing-detection/2-food-and-beverage/CW-150.md) |
 | CWL-300 | Weigh Checker & Automatic Labeling Machine | 11.2 Food & Beverage | [開啟](11-needle-weighing-detection/2-food-and-beverage/CWL-300.md) |
-| EagleAi / EagleAi Plus | Intelligent Fabric Inspection Machine | 1. Inspection | [開啟](01-inspection/OSHIMA-Eagle-Ai.md) |
+| EagleAi / EagleAi Plus | Intelligent Fabric Inspection Machine | 1. Inspection | [開啟](01-inspection/OSHIMA-Eagle-Ai.md)（[v14](01-inspection/versions/eagle-ai-v14-2026.md)｜[v9](01-inspection/versions/eagle-ai-v9-2024.md)） |
 | M190G | Robotic Arm Fabric Loader | 3. Spreading | [開啟](03-spreading/M190G.md) |
 | OMW-600 / 800 / 1000 | Needle Detection & Check Weighing System | 11.1 Garment | [開啟](11-needle-weighing-detection/1-garment/OMW-600.md) |
 | ON-688CD6S / ON-688CDD6S | Digital Conveyor Needle Detector（多高度） | 11.1 Garment | [開啟](11-needle-weighing-detection/1-garment/ON-688CD6S.md) |
@@ -31,6 +32,9 @@ Google Drive 來源資料夾：**英文目錄**
 英文目錄/
 ├── 1. Inspection ........................ catalog/01-inspection/
 │   └── OSHIMA Eagle Ai.pdf .............. OSHIMA-Eagle-Ai.md
+│                                          ├── versions/eagle-ai-v14-2026.md
+│                                          ├── versions/eagle-ai-v9-2024.md  ＋ .raw.txt
+│                                          └── assets/eagle-ai-v9-2024/page-1..6.jpg
 ├── 3. Spreading ......................... catalog/03-spreading/
 │   └── M190G.pdf ........................ M190G.md
 ├── 5. Ironing & Shaping ................. catalog/05-ironing-and-shaping/
@@ -73,5 +77,14 @@ Google Drive 來源資料夾：**英文目錄**
 | CW-150.pdf | 11.2 Food & Beverage | 429 KB | 2025-11-06 | 2025.07.31 | [連結](https://drive.google.com/file/d/1YmOsc-UUPifGXZYlK59cwJHuN5W6U0YC/view) |
 | PDP-2000.pdf | 13. Others | 455 KB | 2026-06-23 | 2026.06.23 | [連結](https://drive.google.com/file/d/1kgOJ2ttuM72Q8bCAIXLhlrlJERZ-mNZk/view) |
 | SLS-190.pdf | 13. Others | 324 KB | 2024-11-14 | 2024.11.14 | [連結](https://drive.google.com/file/d/1__nHEB38ypcqbGcK7XCvTuQ9vn0HQaGa/view) |
+
+---
+
+## 非 Drive 英文目錄來源的文件
+
+| 文件 | 型號 | 日期 | 來源 | 狀態 |
+| --- | --- | --- | --- | --- |
+| OSHIMA_Eagle_Ai_For_Hameen.pdf（`OSHIMA Eagle Ai-英文-9`） | EagleAi | 2024.09.09 | 使用者上傳 2026-09-12 | 已收錄：[規格整理 + 6 頁算圖](01-inspection/versions/eagle-ai-v9-2024.md) |
+| OSHIMA EagleAi Smart Services-EN.pdf | EagleAi | 2025.11.19 | [Drive](https://drive.google.com/file/d/1QmgoJRM_1rwDGYOc_AC4R6lp94ZN1rYs/view)（67 MB） | ⚠️ 未收錄 — Drive API 讀取為空、環境無法下載解析 |
 
 機器可讀版本：[`manifest.json`](manifest.json)

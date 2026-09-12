@@ -5,6 +5,7 @@ Google Drive「**英文目錄**」資料夾的內容，已整理成可在 GitHub
 - 來源：<https://drive.google.com/drive/folders/1Y61eDLV7TiKN-mhyArNbDiO45WRSIlQO>（擁有者 `AD@oshima.co`）
 - 快照日期：**2026-09-12**
 - 內容：8 個分類、3 個子分類、**11 份機台型錄**（另有 4 個目前為空的資料夾）
+- 另收錄使用者上傳的 **EagleAi v9 型錄舊版**，含 6 頁完整算圖
 
 ## 👉 [完整索引請看 catalog/INDEX.md](catalog/INDEX.md)
 
@@ -14,7 +15,7 @@ Google Drive「**英文目錄**」資料夾的內容，已整理成可在 GitHub
 
 | 分類 | 內容 |
 | --- | --- |
-| [1. Inspection](catalog/01-inspection/) | EagleAi / EagleAi Plus 智能驗布機 |
+| [1. Inspection](catalog/01-inspection/) | EagleAi / EagleAi Plus 智能驗布機（v14 現行版 ＋ v9 舊版對照，附頁面算圖） |
 | [3. Spreading](catalog/03-spreading/) | M190G 機械手臂上料 |
 | [5. Ironing & Shaping](catalog/05-ironing-and-shaping/) | OP-565III 領子修剪翻領定型機 |
 | [6. Heat Transfer](catalog/06-heat-transfer/) | （目前無可存取檔案） |
@@ -52,13 +53,23 @@ OP-565III ｜ PDP-2000 ｜ SLS-190
   並提示以 Drive 上的 PDF 為準。
 - 所有頁面都附上原始 PDF 的 Drive 連結，需要看圖片、排版或正式報價時請開啟原始檔。
 
-## 為什麼沒有把 PDF 原始檔放進 repo
+## 關於 PDF 原始檔
 
-本 repo 只收錄文字內容，沒有鏡像 PDF 二進位檔，原因是建立這份快照的執行環境其網路政策
-封鎖了 `drive.google.com`，無法把檔案實際抓下來（總計約 28 MB）。
-文字版反而更適合在 GitHub 上做全文搜尋；需要原始 PDF 時，每一頁都有直達連結。
+Drive 上的 PDF **沒有**鏡像進 repo：建立這份快照的執行環境其網路政策封鎖了
+`drive.google.com`，無法把檔案實際抓下來（總計約 28 MB）。文字版反而更適合在 GitHub 上做
+全文搜尋；需要原始 PDF 時，每一頁都有直達連結。
 
-若日後要把 PDF 一併納入，在可連外的環境下把檔案下載到對應的 `catalog/<分類>/` 目錄，
+**直接上傳的 PDF 則另外處理**：會算成頁面圖存進 `assets/`，版面與標註原樣保留，
+表格欄位對照最清楚。目前只有 EagleAi v9 適用
+（見 [`catalog/01-inspection/assets/eagle-ai-v9-2024/`](catalog/01-inspection/assets/eagle-ai-v9-2024/)）。
+
+要自己補上同樣的處理：
+
+```sh
+pdftotext -layout input.pdf out.txt          # 保留版面的文字
+pdftoppm -jpeg -jpegopt quality=82 -r 110 input.pdf pages/page   # 頁面算圖
+```
+
 再更新 [`catalog/manifest.json`](catalog/manifest.json) 即可。
 
 ## 如何更新

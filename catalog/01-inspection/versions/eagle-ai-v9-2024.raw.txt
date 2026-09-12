@@ -1,0 +1,176 @@
+                                                                                                              TM
+
+
+
+
+                                                                                           EagleAi Intelligent Fabric Inspection Machine is a one-of-a-kind Taiwanese
+                                                                                           invention that is entirely created and manufactured in Taiwan. This fabric
+                                                                                           inspection machine equipped with linear cameras that can eﬀectively
+                                                                                           recognize elastic and woven textiles. Advanced AI learning algorithms and
+                                                                                           a constantly updated defect database shorten training time and improve
+                                                                                           detection eﬃciency. We provide a choice of machine models to accommodate
+                                                                                           various budgets and fabric requirements, guaranteeing that you can ﬁnd
+                                                                                           the best solution for your needs.
+
+                                                                                           Our EagleAi Fabric Inspection Machine comes with an intuitive operating
+                                                                                           interface, simplifying the quality control process. Whether dealing with
+                                                                                           color diﬀerences, labeling issues, edge alignment, or tension detection in
+                                                                                           elastic fabrics, our machines can eﬀectively handle them. EagleAi Fabric
+                                                                                           Inspection Machine is your smart manufacturing solution, guiding you to a
+                                                                                           future of manufacturing excellence.
+
+                                                        Roll to roll
+                                     (Option: Fabric edge labeling + Weighing device)
+
+
+
+
+Real-time monitoring:                        Advantages:                                User interface:                       Investment cost:
+ Remote control                               Suitable for elastic / knit fabric         Intuitive, easy-to-master UI           Quick ROI through superior productivity
+ Oﬄine operation boosts network security      Biggest APEC defect database               User-speciﬁc customizable settings     Permission-based data sharing reduces
+                                                                                                                                AI training expenses
+                                                                                                                                Resource-eﬃcient labor allocation
+Defect area analyst report            Colour deviation Inspection report                Colour deviation Inspection report
+
+
+
+
+                                   *For demostration only
+
+
+                                                                                    *For demostration only
+
+
+
+
+                             Guaranteed knit fabric tension is less than ≤�%
+  Four Points Sys. Report
+
+
+
+
+                             Before inspection H=���                       After inspection H =���
+                                                                           Tension reduced to to �%
+Defect image showcase - Station �+�
+
+
+
+
+            Piece joining             Dirty stain         Hole            Color stain
+
+
+
+
+              Dye spot                Knot yarn     Weft yarn abnormal   Chemical spot
+
+
+
+
+              Oil stain                 Snag           Broken weft       Broken warp
+                                                                                                                                                           Hardware and motion system
+                                                                                                              Fabric inspection width (mm)                                    < 1900
+                                                                                                               Inspection speed (m/min)                          10~40 (Depends on fabric type)
+                                                                                                                 Fabric diameter (mm)                         —                                 < 400
+                                                                                                                   Fabric weight (kg)                         —                                 < 100
+                                                                                                                      Safety devices                                     Emergency stop
+        Why is AI fabric inspection better than manual inspection?                                        Semi-automatic fabric feeding system
+                                                                                                                     Edge alignment                           —
+                                                                                                                  Fabric edge labeling
+                                         OSHIMA EagleAi™                      Manual fabric inspection              Weighing device
+                                                                                                                      Cutting device                          —
+ Fabric inspection speed (m/min)    10~40 (Depends on fabric type)                      18
+                                                                                                           Barcode reader (1D code, 2D code)
+         Downtime (min)                      Uninterrupted                       Every 20~30
+                                                                                                                      Tension device                             Zero tension+3 level speed ratio
+  AI fabric inspection eﬃciency      6 Minutes of AI detection equals 40 minutes of manual inspection
+   Color variation assessment             Measurable criteria             Subjective human judgment         Inspected area deformity ratio                           Elastic/knit fabric ≤ 5%
+   Fabric width measurement               Real-time dynamics                 Manual measurement                 Fabric absence detection
+                                                                                                                   Safe stop function          Automatic alarm buzzer and indicator light when machine stops running
+     Data collection methods               Image traceability                    Manual input
+        Operators required                         1                                   2~5
+       Company reputation               Consistent quality and
+                                                                             Quality disagreements                                                               Optical structure
+                                          satisﬁed customers
+                                         Interoperability with                                                     LED linear light source                                                    1.1 million lux
+      Information uniﬁcation                                                No machine integration
+                                            other machines                                                                                                                                  Station 1
+                                                                                                                                       EagleAi                              Color cameras * 2 + linear light source *1 +
+                                                                                                                                                                                        host * 1 + UPS * 1
+                                                                                                             Detection
+                                                                                                              station
+                                       Speciﬁcation                                                                                  EagleAi Plus
+                                                                                                                                                                                             Station 2
+                                                                                                                                                                         Color cameras * 2 + monochrome cameras * 2 +
+                                                                                                                                                                             linear light source * 2 + host * 1 + UPS * 1
+                                              Flat to ﬂat / Roll to roll / Roll to ﬂat / Flat to roll           Central processing unit
+                                                                                                                                                                                                Intel Xeon
+                                             Flat to ﬂat                                Roll to roll            memory (CPU memory)
+                                                                                                             Random access memory (RAM)                                                          64 GB
+                                          Speciﬁcation
+                                                                                                                     Storage disk                                                            Host / SSD 4TB
+  Inspection         Dimensions                                                                                    Resolution (mm)                                                               0.135
+                                          2800x2650x1825                             2646x2650x1825
+   machine           LxWxH (mm)                                                                             Minimum detectable defect (mm)                                                          1
+   Control           Dimensions
+                                            737x842x1445                              737x842x1445
+    panel            LxWxH (mm)                                                                             Standard        Option   — Not available
+                                                                                                         *Product speciﬁcations and content are subject to change without prior notice. *Copyright 2024 OSHIMA. All rights reserved as of 2024.09.09
+                       EagleAi             Station 1: 1135                            Station 1: 1145
+Net weight (kg)
+                     EagleAi Plus          Station 2: 1165                            Station 2: 1175
+
+
+
+                                        Electrical system
+         Machine voltage (V)                                    1P 220 50/60 Hz
+     Power consumption (A)                                           27.3
+    Electricity consumption (kW)                                      4.9
+
+
+
+
+                                                                                                                                          EagleAi                                                                EagleAi Plus
+                                                                                                                                         Station 1                                                                 Station 2             * Roll to roll
+                                                                Flat to ﬂat / Roll to roll / Roll to ﬂat / Flat to roll
+                                                                Flat to ﬂat                               Roll to roll
+
+                                                          Electrical system
+      Image inspection technology                                                AI visual recognition
+         Inspected fabric types                                                     Knitted / woven
+         Inspected fabric color                                                    Solid color fabric
+                                                      Piece joining                    Dirty stain                  Hole
+                                                       Color stain                      Dye spot                  Knot yarn
+        Defect type list-Station 1
+                                                   Weft yarn abnormal                Chemical spot                 Oil stain
+                                                          Snag
+      Defect type list-Station 2                          Hole                       Broken weft                Broken warp
+     (Must be translucent fabric)
+ Color diﬀerence detection function
+    Defect mapping/coordinates
+        /classiﬁcation report
+       Defect labeling function
+     Fabric recognition module,
+customizable according to fabric type
+             Report format                                                         CSV, PDF, Excel
+          Cutting plan report
+    Defect scoring with a four-point
+             system report
+    Customized services for reports,
+      models, and functionalities
+          System integration
+          (e.g., MES and ERP)
+
+   Standard        Option   — Not available
+*Product speciﬁcations and content are subject to change without prior notice.
+*Copyright 2024 OSHIMA. All rights reserved as of 2024.09.09
+
+
+                                                                                                                                                                                                   * Roll to roll
+
+
+
+
+                                                                                                                               OSHIMA CO.,LTD.
+                                                                                                                               No.2, Minsheng St., Tucheng Dist., New Taipei City, Taiwan(R.O.C)
+                                                                                                                               TEL : 02-2268-3311 FAX : 02-2269-5000
+
